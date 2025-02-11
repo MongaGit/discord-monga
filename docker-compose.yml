@@ -1,0 +1,21 @@
+services:
+  mongaboss:
+    image: lorthe/discord-mongaboss:latest
+    container_name: mongaboss
+    env_file:
+      - .env
+    restart: always
+
+  mongaprops:
+    image: lorthe/discord-mongaprops:latest
+    container_name: mongaprops
+    env_file:
+      - .env
+    restart: always
+
+  mongahltv:
+    image: lorthe/discord-hltv-matches:latest
+    container_name: mongahltv
+    env_file:
+      - .env
+    restart: always
