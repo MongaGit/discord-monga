@@ -1,0 +1,12 @@
+[submodule "discord-mongaprops"]
+	path = discord-mongaprops
+	url = https://github.com/mongagit/discord-mongaprops.git
+[submodule "discord-mongaboss"]
+	path = discord-mongaboss
+	url = https://github.com/mongagit/discord-mongaboss.git
+[submodule "discord-mongadj"]
+	path = discord-mongadj
+	url = https://github.com/MongaGit/discord-mongadj.git
+[submodule "discord-mongahltv"]
+	path = discord-mongahltv
+	url = https://github.com/MongaGit/discord-mongahltv.git
