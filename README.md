@@ -2,7 +2,15 @@
 
 Este repositório centraliza e orquestra bots especializados para o servidor Discord do Monga. Cada bot é desenvolvido com foco em containerização, manutenibilidade e resolução de problemas específicos.
 
-## 🎯 Bots Disponíveis
+## 🔗 Repositórios
+
+[![mongaprops](https://img.shields.io/badge/mongaprops-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongaprops)
+[![mongaboss](https://img.shields.io/badge/mongaboss-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongaboss)
+[![mongadj](https://img.shields.io/badge/mongadj-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongadj)
+[![mongahltv](https://img.shields.io/badge/mongahltv-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongahltv)
+
+
+## 🎯 Bots
 
 ### discord-mongaprops
 Bot para gerenciamento de mensagens automáticas e props diárias, enviando mensagens de "Bom dia" com imagens personalizadas em horários configuráveis.
@@ -16,12 +24,7 @@ Bot de música integrado com SoundCloud, permitindo reprodução de músicas em 
 ### discord-mongahltv
 Bot para acompanhamento de partidas de CS2, monitorando jogos da HLTV e criando eventos automáticos no Discord.
 
-## 🔗 Repositórios Originais
 
-[![mongaprops](https://img.shields.io/badge/mongaprops-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongaprops)
-[![mongaboss](https://img.shields.io/badge/mongaboss-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongaboss)
-[![mongadj](https://img.shields.io/badge/mongadj-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongadj)
-[![mongahltv](https://img.shields.io/badge/mongahltv-181717?style=for-the-badge&logo=github)](https://github.com/mongagit/discord-mongahltv)
 
 ## 🛠️ Tecnologias
 
