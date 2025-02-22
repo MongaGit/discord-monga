@@ -10,3 +10,6 @@
 [submodule "discord-mongahltv"]
 	path = discord-mongahltv
 	url = https://github.com/MongaGit/discord-mongahltv.git
+[submodule "monga-site"]
+	path = monga-site
+	url = git@github.com:MongaGit/monga-site.git
